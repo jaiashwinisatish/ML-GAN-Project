@@ -1,0 +1,1 @@
+GAN (Generative Adversarial Network) GAN is a machine learning technique that involves two neural networks: Generator: Creates new (fake) images. Discriminator: Decides whether an image is real or fake.
